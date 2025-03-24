@@ -1,3 +1,0 @@
-[console_scripts]
-catfiles = catfiles:main
-
